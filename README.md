@@ -16,3 +16,23 @@
 <p>
 Για τη μείωση του κόστους αλλά και την αποφυγή της ανάγκης μεταφοράς του εξοπλισμού από τον ίδιο τον χρήστη, προτείνεται η δημιουργία ειδικά διαμορφωμένων χώρων στις οργανωμένες παραλίες. Εκεί, ο δήμος ή ο αρμόδιος φορέας θα μπορεί να παρέχει δωρεάν τα οχήματα αυτά. Παράλληλα, στον χώρο θα μπορούσε να εγκατασταθεί φωτοβολταϊκό σύστημα, το οποίο θα χρησιμοποιείται για τη φόρτιση των οχημάτων, ενισχύοντας τη βιώσιμη και οικολογική λειτουργία της πρότασης.
 </p>
+Υλικά που θα χρειαστούμε :
+<ul>
+<li>BBC Micro:bit V2 Board 	x 3</li>
+<li>Edge Connector Breakout Board x 3</li>
+<li>Πλακέτα Δοκιμών	x 4</li>
+<li>Jumper Wires F-M x 3</li>
+<li>Jumper Wires 15cm Μ-Μ x 3</li>
+<li>Ribbon 40wire 20cm - Female to Μale x 3</li>
+<li>Ribbon 40wire 20cm - Male to Male x 3</li>
+<li>Ribbon 40wire 20cm - Female to Female x 3</li>
+<li>LED Red Diffused 5mm & Resistor 200Ω x 1</li>
+<li>LED Green Diffused 5mm & Resistor 200Ω x 1</li>
+<li>LED Yellow Diffused 5mm & Resistor 200Ω x 1</li>
+<li>Servo (μικρά) x 3</li>
+<li>Feetech FS90R Continuous Rotation x 3</li>
+<li>Ultrasonic Sensor x 3</li>
+<li>DFRobot Solar Panel 5V 1A with Voltage Regulator x 1</li>
+<li>DC Gear Motor TT - 130 RPM (With Wire) x 2</li>
+<li>Alligator Test Leads - Multicolored x 2</li>
+</ul>

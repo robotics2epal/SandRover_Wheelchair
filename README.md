@@ -4,7 +4,7 @@
 Ανοιχτές Τεχνολογίες για το Κοινό Καλό
 </h2>
 <p align="center">
-  <img src="./pic/1.jpg" width= 300>
+  <img src="./pic/1.jpg" width= 600>
 </p>
 
 <br> 

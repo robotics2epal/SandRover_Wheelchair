@@ -45,8 +45,5 @@
 
 [![Παρουσίαση έργου](https://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://view.genially.com/69e31132024f859f6f48060c)
 <br><br>
-<a href="https://view.genially.com/69e31132024f859f6f48060c" target="_blank">
-  <img src="https://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig" alt="Παρουσίαση έργου">
-</a>
 
 [![SandRover Wheelchair](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://www.youtube.com/watch?v=a47hih9J8eQ)
